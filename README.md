@@ -50,7 +50,7 @@ Automated knowledge graph extraction from Korean text using NER, Entity Linking,
 - **Deployment**: Kakao search, AI speakers, recommendation systems
 - **Repository**: Private
 
-### IPPS - Manufacturing Optimization (2017-01 - 2017-12)
+### IPPS - Manufacturing Optimization (2017-03 - 2017-12)
 Research optimizing manufacturing process planning and scheduling using meta-heuristic algorithms.
 - **Organization**: Production Process Scheduling Lab, Hongik University
 - **Role**: Undergraduate Researcher
