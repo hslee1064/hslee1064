@@ -9,8 +9,8 @@ Enterprise multi-agent LLM platform serving 60,000+ employees across 28 countrie
 - **Organization**: Samsung Research, AI Productivity Team
 - **Role**: Machine Learning Engineer
 - **Key Results**: 60,000+ employees, 1200+ departments, 28 countries, 40% RAG chunk retrieval accuracy improvement
-- **Contributions**: Multi-agent orchestration, Knowledge Repository with document intelligence, hybrid search and ranking for RAG, Kubernetes infrastructure management, multi-cluster monitoring
-- **Skills**: Kubernetes, ArgoCD, Helm, Python, Langgraph, PostgreSQL, Redis, Elasticsearch, Langfuse, Grafana, OpenTelemetry, Ceph, Calico, Istio
+- **Contributions**: Multi-agent orchestration with Langgraph, Knowledge Repository with document intelligence, hybrid search and ranking for RAG, GitOps CI/CD pipeline, multi-cluster monitoring
+- **Skills**: Kubernetes, GitOps, Helm, Python, Langgraph, PostgreSQL, Redis, Elasticsearch, Langfuse, Grafana, OpenTelemetry, Ceph, Calico, Istio
 - **Repository**: Private
 - **Reference**: [STC25 - Architecture of Generative AI Playground and Infrastructure](https://www.youtube.com/watch?v=u4VlLvA6VAA)
 
