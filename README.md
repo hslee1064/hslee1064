@@ -11,7 +11,7 @@ Enterprise AI platform for Samsung's Gauss LLM serving 7000+ employees across 28
 - **Contributions**: Multi-agent orchestration, ArgoCD/Helm deployment pipelines, Knowledge Repository with document intelligence, multi-cluster monitoring, MCP integration
 - **Skills**: Kubernetes, ArgoCD, Helm, Python, LangChain, PostgreSQL, Redis
 - **Repository**: Private
-- **Reference**: [YouTube - Product Demo](https://www.youtube.com/watch?v=u4VlLvA6VAA)
+- **Reference**: [STC25 - Architecture of Generative AI Playground and Infrastructure](https://www.youtube.com/watch?v=u4VlLvA6VAA)
 
 ### Big Data Assistant (2023-11 - 2025-02)
 Enterprise AI service for data-driven analytics. 30 countries, 215+ analysts.
