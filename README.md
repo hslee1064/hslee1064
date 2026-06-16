@@ -10,7 +10,7 @@ Enterprise multi-agent LLM platform serving 60,000+ employees across 28 countrie
 - **Role**: Machine Learning Engineer
 - **Key Results**: 60,000+ employees, 1200+ departments, 28 countries, 40% RAG chunk retrieval accuracy improvement
 - **Contributions**: Multi-agent orchestration, Knowledge Repository with document intelligence, hybrid search and ranking for RAG, Kubernetes infrastructure management, multi-cluster monitoring
-- **Skills**: Kubernetes, ArgoCD, Helm, Python, LangChain, PostgreSQL, Redis
+- **Skills**: Kubernetes, ArgoCD, Helm, Python, Langgraph, PostgreSQL, Redis, Elasticsearch, Langfuse, Grafana, OpenTelemetry, Ceph, Calico, Istio
 - **Repository**: Private
 - **Reference**: [STC25 - Architecture of Generative AI Playground and Infrastructure](https://www.youtube.com/watch?v=u4VlLvA6VAA)
 
@@ -20,7 +20,7 @@ Enterprise Text-to-SQL LLM service for data-driven analytics. 30 countries, 215+
 - **Role**: Machine Learning Engineer
 - **Key Results**: 27% analysis time reduction, 84% SQL generation accuracy, 25.7% cost reduction
 - **Contributions**: Text-to-SQL agent with LLM and RAG, Fine-tuned LLM using ReAct (17% accuracy improvement), Smart LLM Gateway for load distribution, BDA Studio LLMOps platform for model evaluation and deployment
-- **Skills**: Python, Kubernetes, Google Cloud, Azure, LangChain, Llama Index, MongoDB, ReAct
+- **Skills**: Python, Kubernetes, Google Cloud, Azure, LangChain, MongoDB, ReAct
 - **Repository**: Private
 
 ### KiML - Kakao i Machine Learning (2022-04 - 2023-08)
