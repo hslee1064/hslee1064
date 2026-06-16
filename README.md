@@ -6,7 +6,7 @@ ML Engineer with 5+ years of experience building enterprise AI systems, MLOps pl
 
 ### AI Playground (2025-03 - Present)
 Enterprise multi-agent LLM platform serving 60,000+ employees across 28 countries.
-- **Organization**: Samsung Research, AI Productivity Team
+- **Organization**: Samsung Electronics / Samsung Research, AI Productivity Team
 - **Role**: Machine Learning Engineer
 - **Key Results**: 60,000+ employees, 1200+ departments, 28 countries, 40% RAG chunk retrieval accuracy improvement
 - **Contributions**: Multi-agent orchestration with Langgraph, Knowledge Repository with document intelligence, hybrid search and ranking for RAG, GitOps CI/CD pipeline, multi-cluster monitoring
@@ -16,7 +16,7 @@ Enterprise multi-agent LLM platform serving 60,000+ employees across 28 countrie
 
 ### Big Data Assistant (2023-11 - 2025-02)
 Enterprise Text-to-SQL LLM service for data-driven analytics. 30 countries, 215+ analysts.
-- **Organization**: Samsung Electronics, LLMOps Team
+- **Organization**: Samsung Electronics / Big Data Center, LLMOps Team
 - **Role**: Machine Learning Engineer
 - **Key Results**: 27% analysis time reduction, 84% SQL generation accuracy, 25.7% cost reduction
 - **Contributions**: Text-to-SQL agent with LLM and RAG, Fine-tuned LLM using ReAct (17% accuracy improvement), Smart LLM Gateway for load distribution, BDA Studio LLMOps platform for model evaluation and deployment
