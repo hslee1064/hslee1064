@@ -2,7 +2,7 @@
 
 ML Engineer with 5+ years of experience building enterprise AI systems, MLOps platforms, and GPU-accelerated infrastructure. Expertise: LLM systems, agentic AI, RAG, Kubernetes, distributed inference.
 
-## Projects (Recent to Early)
+## Projects
 
 ### AI Playground (2025-03 - Present)
 Enterprise AI platform for Samsung's Gauss LLM serving 7000+ employees across 28 countries.
@@ -64,7 +64,7 @@ Hybrid mobile app for fitness and sports information. 1000+ downloads.
 - **Role**: Development Team Leader (5 developers)
 - **Scope**: Full-stack development (Android, Spring backend, MySQL database, AWS EC2)
 - **Technologies**: Android (Java), Spring Framework 3.1.1, MySQL, AWS EC2, Apache Tomcat
-- **Repository**: Private
+- **Repository**: [GitHub](https://github.com/hslee1064/SportForAll)
 
 ### WeddingBox (2014-06 - 2014-11)
 Mobile app for wedding social networking and digital invitations. 500+ downloads.
@@ -72,7 +72,7 @@ Mobile app for wedding social networking and digital invitations. 500+ downloads
 - **Role**: Android Developer
 - **Features**: Digital invitations, wedding profiles, guest management, RSVP tracking, GCM push notifications
 - **Technologies**: Android (Java), SQLite, GCM push notifications, REST API
-- **Repository**: Private
+- **Repository**: [GitHub](https://github.com/hslee1064/WeddingBox)
 
 ---
 
