@@ -39,7 +39,7 @@ Kubernetes autoscaler for ML microservices using data processing throughput inst
 - **Key Results**: 51.6% throughput improvement vs standard HPA (8 GPU), published Korea Software Congress 2023
 - **Algorithm**: Queue-aware, throughput-based scaling with bottleneck detection via Redis Streams
 - **Skills**: Go, Kubernetes CRD, Prometheus, Redis Streams, DCGM Exporter
-- **Thesis**: "ML 서비스의 데이터 처리량 기반 쿠버네티스 오토스케일링 기법" (Korea University, 2024)
+- **Thesis**: "Kubernetes Autoscaling of ML Services Based on Data Processing Throughput" (Korea University, 2024)
 - **Repository**: [GitHub](https://github.com/hslee1064/custom-autoscaler)
 
 ### OASYS - Knowledge Graph Construction (2020-06 - 2022-03)
