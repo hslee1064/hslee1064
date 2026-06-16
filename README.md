@@ -30,7 +30,7 @@ Commercial MLOps platform for 200+ organizations with $8.11M revenue.
 - **Contributions**: Modular inference architecture, secure gateway, 2000+ GPU cluster with InfiniBand, MIG monitoring
 - **Skills**: Kubernetes, InfiniBand, Prometheus, Grafana, TensorFlow Serving, PyTorch, ONNX
 - **Repository**: Private
-- **Reference**: [배포 기사](https://www.smarttimes.co.kr/news/articleView.html?idxno=4201)
+- **Reference**: [Press Release](https://www.smarttimes.co.kr/news/articleView.html?idxno=4201)
 
 ### Throughput-Based Autoscaler (TBA) (2022-03 - 2024-06)
 Kubernetes autoscaler for ML microservices using data processing throughput instead of CPU/GPU metrics.
