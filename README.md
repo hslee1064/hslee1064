@@ -5,11 +5,11 @@ ML Engineer with 5+ years of experience building enterprise AI systems, MLOps pl
 ## Projects
 
 ### AI Playground (2025-03 - Present)
-Enterprise multi-agent LLM platform for Samsung's Gauss LLM serving 7000+ employees across 28 countries.
+Enterprise multi-agent LLM platform serving 60,000+ employees across 28 countries.
 - **Organization**: Samsung Research AI Center
 - **Role**: Machine Learning Engineer
-- **Key Results**: 7000+ active users, 1200+ departments across 28 countries, document intelligence platform with multi-agent workflows
-- **Contributions**: Multi-agent orchestration with LangChain, ArgoCD/Helm deployment pipelines, Knowledge Repository service with document intelligence, Model Context Protocol (MCP) integration, multi-cluster monitoring
+- **Key Results**: 60,000+ employees, 1200+ departments, 28 countries, 40% RAG chunk retrieval accuracy improvement
+- **Contributions**: Multi-agent orchestration, Knowledge Repository with document intelligence, hybrid search and ranking for RAG, Kubernetes infrastructure management, multi-cluster monitoring
 - **Skills**: Kubernetes, ArgoCD, Helm, Python, LangChain, PostgreSQL, Redis
 - **Repository**: Private
 - **Reference**: [STC25 - Architecture of Generative AI Playground and Infrastructure](https://www.youtube.com/watch?v=u4VlLvA6VAA)
@@ -18,18 +18,18 @@ Enterprise multi-agent LLM platform for Samsung's Gauss LLM serving 7000+ employ
 Enterprise Text-to-SQL LLM service for data-driven analytics. 30 countries, 215+ analysts.
 - **Organization**: Samsung Electronics, LLMOps Team
 - **Role**: Machine Learning Engineer
-- **Key Results**: 27% analysis time reduction, 84% SQL generation accuracy, 25.7% cost reduction, 1.75 hours saved per analyst per week
-- **Contributions**: Text-to-SQL agent with LLM and RAG, Fine-tuned LLM using ReAct and Chain-of-Thought (17% accuracy improvement), GPU infrastructure orchestration (Samsung SDS, Google Cloud, Azure), LLM Gateway with token-based access control and audit logging, BDA Studio LLMOps platform for model evaluation and deployment
-- **Skills**: Python, Kubernetes, Google Cloud, Azure, LangChain, Llama Index, MongoDB, ReAct, Chain-of-Thought
+- **Key Results**: 27% analysis time reduction, 84% SQL generation accuracy, 25.7% cost reduction
+- **Contributions**: Text-to-SQL agent with LLM and RAG, Fine-tuned LLM using ReAct (17% accuracy improvement), Smart LLM Gateway for load distribution, BDA Studio LLMOps platform for model evaluation and deployment
+- **Skills**: Python, Kubernetes, Google Cloud, Azure, LangChain, Llama Index, MongoDB, ReAct
 - **Repository**: Private
 
 ### KiML - Kakao i Machine Learning (2022-04 - 2023-08)
-Commercial MLOps platform for 200+ organizations with $8.11M revenue, supporting KakaoBrain's large-scale LLM research.
+Commercial MLOps platform for 200+ institutions with $8.11M revenue.
 - **Organization**: Kakao Enterprise, ML Platform Team
 - **Role**: Machine Learning Engineer
-- **Key Results**: 11x faster training speed, 120% GPU utilization improvement, $8.11M total revenue, national HPC infrastructure provider
-- **Contributions**: Model-Deployment-Endpoint modular architecture, secure inference gateway with enterprise features, 2000+ GPU cluster with InfiniBand interconnect, MIG (Multi-Instance GPU) monitoring and visualization, advanced deployment strategies (mirror rollout, canary deployment)
-- **Skills**: Kubernetes, InfiniBand, Prometheus, Grafana, TensorFlow Serving, PyTorch, ONNX, CLI/SDK development
+- **Key Results**: 11x faster training speed, 120% GPU utilization improvement, 200+ institutions, $8.11M revenue
+- **Contributions**: Inference Management System, Model-Deployment-Endpoint architecture, secure gateway, 2000+ GPU cluster with InfiniBand, MIG monitoring, Prometheus and EFK logging
+- **Skills**: Kubernetes, InfiniBand, Prometheus, Grafana, TensorFlow Serving, PyTorch, ONNX
 - **Repository**: Private
 - **Reference**: [Press Release](https://www.smarttimes.co.kr/news/articleView.html?idxno=4201)
 
@@ -44,12 +44,12 @@ Kubernetes autoscaler for ML microservices using data processing throughput inst
 - **Repository**: [GitHub](https://github.com/hslee1064/custom-autoscaler)
 
 ### OASYS - Knowledge Graph Construction (2020-06 - 2022-03)
-Automated knowledge graph extraction from Korean text using NER, Entity Linking, Relation Extraction models.
+Automated AI system for constructing knowledge graph from unstructured Korean text.
 - **Organization**: Kakao Enterprise, Knowledge Graph AI Team
 - **Role**: Machine Learning Engineer
-- **Key Results**: 10x inference latency reduction, 40x data pipeline throughput improvement, 89.1% entity linking accuracy, 57.8% relation extraction F1-score
-- **Contributions**: Inference serving optimization via Triton and model conversion (TorchScript/ONNX), GPU-based autoscaling with queue monitoring, RDF/semantic web integration for ontology-based reasoning, Hadoop-based big data pipeline
-- **Skills**: Python, Triton Inference Server, Keras, RDF, Prometheus, Hadoop, Redis Streams
+- **Key Results**: 10x latency reduction, 40x throughput improvement, 89.1% entity linking accuracy, 57.8% F1-score
+- **Contributions**: Optimized inference with Triton Inference Server and multiprocessing, Enhanced GPU resource utilization, GPU-based autoscaling, RDF semantic web integration, Hadoop big data pipeline
+- **Skills**: Python, Triton Inference Server, Keras, RDF, Prometheus, Hadoop
 - **Deployment**: Kakao search, AI speakers, recommendation systems
 - **Repository**: Private
 
